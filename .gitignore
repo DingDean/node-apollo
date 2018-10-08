@@ -3,3 +3,4 @@ default.env
 example/node_modules
 example/package-lock.json
 *.sw*
+.nyc_output
